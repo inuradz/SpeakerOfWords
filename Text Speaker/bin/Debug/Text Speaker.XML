@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text Speaker</name>
+    </assembly>
+    <members>
+        <member name="T:Text_Speaker.Speak">
+            <summary>
+            This is a windows form designed to provide a simple gui layer to .net speech sysnthesis
+            </summary>
+            <remarks>
+            This is the first C# program I have ever written
+            This is also not meant to give a complete wrapper to the module
+            </remarks>
+        </member>
+        <member name="M:Text_Speaker.Speak.#ctor">
+            <summary>
+            This intilises the class
+            </summary>
+        </member>
+        <member name="M:Text_Speaker.Speak.voiceMenu">
+            <summary>
+            This puts all the installed voices into the Voices Menu in the Options Drop Down
+            </summary>
+            <remarks>
+            Not all installed voices on the system will be usable by speech synthesiser
+            </remarks>
+        </member>
+        <member name="M:Text_Speaker.Speak.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            This is the event handler 
+            </summary>
+            <param name="sender">This is information about what sent the event</param>
+            <param name="e">This is addtional information</param>
+        </member>
+        <member name="M:Text_Speaker.Speak.synth_SpeakProgress(System.Object,System.Speech.Synthesis.SpeakProgressEventArgs)">
+            <summary>
+            This is used to tell how far the speech has gone
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.synth_SpeakCompleted(System.Object,System.Speech.Synthesis.SpeakCompletedEventArgs)">
+            <summary>
+            This occcurs when the speech is finally completed
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.infoToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            This gives a simple pop up to give information about the program
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.selectGender_Click(System.Object,System.EventArgs)">
+            <summary>
+            This selects the gender for the select voice by hints
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.selectAge_Click(System.Object,System.EventArgs)">
+            <summary>
+            This sets the age for the select voice by hints
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.changeVoice_Click(System.Object,System.EventArgs)">
+            <summary>
+            This changes the voice of synthesiser
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Text_Speaker.Speak.helpToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            This opens up a webpage to help page
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Text_Speaker.Speak.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Text_Speaker.Speak.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Text_Speaker.Speak.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Text_Speaker.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Text_Speaker.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Text_Speaker.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Text_Speaker.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

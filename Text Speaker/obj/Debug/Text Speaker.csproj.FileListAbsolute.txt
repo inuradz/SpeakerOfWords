@@ -1,0 +1,14 @@
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.exe.config
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.exe
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.pdb
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.csprojResolveAssemblyReference.cache
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text_Speaker.Properties.Resources.resources
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.csproj.GenerateResource.Cache
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.exe
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.pdb
+c:\users\idz\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text_Speaker.Speak.resources
+C:\Users\IDZ\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.XML
+C:\Users\IDZ\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.exe.manifest
+C:\Users\IDZ\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\bin\Debug\Text Speaker.application
+C:\Users\IDZ\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.exe.manifest
+C:\Users\IDZ\documents\visual studio 2015\C#\Projects\Text Speaker\Text Speaker\obj\Debug\Text Speaker.application

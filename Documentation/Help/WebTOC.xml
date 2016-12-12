@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="7a6fbbc8-05d2-4d0c-ad5f-bb1bd9b0eb75" Title="Text_Speaker" Url="html/ed0b4b3d-bdf2-b7eb-d364-eaf4b37d7e84.htm">
+    <HelpTOCNode Id="5f5ebfa8-f2ae-4447-ae59-0168c3259338" Title="Speak Class" Url="html/808d2ed4-a036-039e-1b64-329bc60ecde9.htm">
+      <HelpTOCNode Title="Speak Constructor " Url="html/d2ea8940-f5f1-4ca4-618a-ffc38715edb4.htm" />
+      <HelpTOCNode Title="Speak Properties" Url="html/76e349e1-cf51-cdde-37f1-04580d4d1cd7.htm" />
+      <HelpTOCNode Id="508d55ee-381b-4a94-8436-f379ed65d608" Title="Speak Methods" Url="html/075eca27-4a45-c022-32af-784c1f93902e.htm">
+        <HelpTOCNode Id="eef6200c-d3a7-4261-acc9-381441725111" Title="Dispose Method " Url="html/a6845f7e-e5d4-8670-b1d7-15e9bd290b4e.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/a0624ad6-8feb-fac8-0597-2ad97792e875.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="Speak Events" Url="html/168d4e6b-ee68-29d8-a94d-989da1b1b3c1.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
